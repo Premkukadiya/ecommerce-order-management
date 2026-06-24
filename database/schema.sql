@@ -1,0 +1,2 @@
+-- schema.sql
+-- CREATE TABLE scripts go here

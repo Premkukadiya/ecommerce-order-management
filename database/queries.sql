@@ -1,0 +1,2 @@
+-- queries.sql
+-- Important queries (joins, aggregates etc.)
